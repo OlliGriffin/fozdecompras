@@ -2,33 +2,31 @@ Menu:
   Home: /
   Archives: /archives/
   About: /about/
-  # Category: /category_archive
+  Category: /category_archive
   # Tag: /tag_archive
-  Github: https://github.com/vevlins/
-  RSS: /atom.xml
-  Search: true
+  Search: false
   
 Site:
-  Motto: Ponyo loves Sōsuke! 
+  Motto: Always do what you're afraid to do. - E. Lockhart
 
 Intro:
-  Avastar: img/avastar.jpeg
-  Name: 张强
-  Brief: 2019届重庆大学本科生,前端学习者
+  Avastar: img/logo.jpg
+  Name: Foz De Compras
+  Brief: 2013 - Now
   SNS: 
     Weibo:  
     StackOverflow: 
-    Github: https://github.com/Vevlins
+    Github: 
     Pinterest: 
     Quora: 
 
 CopyRight: 
-  Author: Sōsuke
-  License: CC BY-NC-SA 3.0 CN
+  Author: Foz De Compras
+  License: 
 
 Tip:
-  Alipay: /img/qrcode.jpeg
-  Wechat: /img/qrcode.jpeg
+  Alipay: 
+  Wechat: 
 
 Comment:
   Id: 8d83609a651e972e308d
