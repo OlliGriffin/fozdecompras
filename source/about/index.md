@@ -8,4 +8,4 @@ layout: about
 ![](/img/logo.jpg)
 </center>
 
-Since 2013, Foz De Compras have been founded. We are consist of a specialized team of engineer in hybrid car. Our main mission is to explore and expose the secret of hybrid cars. The info and facts that we gather are from the reliable sources with full cooperation with the inventor of these kind of cars. Do update your car for your future life.
+Since 2013, Moxie Deluxe have been founded. We are consist of a specialized team of engineer in hybrid car. Our main mission is to explore and expose the secret of hybrid cars. The info and facts that we gather are from the reliable sources with full cooperation with the inventor of these kind of cars. Do update your car for your future life.
